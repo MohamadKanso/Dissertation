@@ -1,0 +1,2 @@
+# Dissertation
+Bitcoin Trading Bot.
